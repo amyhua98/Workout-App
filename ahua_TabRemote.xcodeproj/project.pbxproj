@@ -14,6 +14,7 @@
 		23D856CD240B37D500C248F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23D856CB240B37D500C248F4 /* Main.storyboard */; };
 		23D856CF240B37D700C248F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23D856CE240B37D700C248F4 /* Assets.xcassets */; };
 		23D856D2240B37D700C248F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23D856D0240B37D700C248F4 /* LaunchScreen.storyboard */; };
+		23D856DA240B7BAB00C248F4 /* FavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D856D9240B7BAB00C248F4 /* FavoriteViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		23D856CE240B37D700C248F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23D856D1240B37D700C248F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23D856D3240B37D700C248F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23D856D9240B7BAB00C248F4 /* FavoriteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				23D856C7240B37D500C248F4 /* FirstViewController.swift */,
 				23D856C9240B37D500C248F4 /* SecondViewController.swift */,
 				23D856CB240B37D500C248F4 /* Main.storyboard */,
+				23D856D9240B7BAB00C248F4 /* FavoriteViewController.swift */,
 				23D856CE240B37D700C248F4 /* Assets.xcassets */,
 				23D856D0240B37D700C248F4 /* LaunchScreen.storyboard */,
 				23D856D3240B37D700C248F4 /* Info.plist */,
@@ -145,6 +148,7 @@
 				23D856C8240B37D500C248F4 /* FirstViewController.swift in Sources */,
 				23D856C4240B37D500C248F4 /* AppDelegate.swift in Sources */,
 				23D856C6240B37D500C248F4 /* SceneDelegate.swift in Sources */,
+				23D856DA240B7BAB00C248F4 /* FavoriteViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
