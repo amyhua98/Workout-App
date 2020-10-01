@@ -58,10 +58,10 @@ class SecondViewController: UIViewController, UIPickerViewDelegate, UIPickerView
         let selectedWorkout = pickerView.selectedRow(inComponent: 0)
         let selectedExercise = pickerView.selectedRow(inComponent: 0)
         let wk = workouts[selectedWorkout].workout
-        let ex = workouts[selectedExercise].exercise
+        
         
         exercise.text = "Type: \(wk)"
-        exercise2.text = "Exercise: \(ex)"
+        
     }
     
     
